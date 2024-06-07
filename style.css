@@ -10,3 +10,7 @@ body{
 .dice {
     display: inline-block;
 }
+p {
+    color: azure;
+    font-size: 20px;
+}
