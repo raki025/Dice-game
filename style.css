@@ -1,0 +1,12 @@
+body{
+   background-color: blueviolet;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+}
